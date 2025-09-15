@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/Rahman-Samiya" target="_blank">Rahman Samiya</a> 👋</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/Rahman-Samiya" target="_blank">Samiya Rahman</a> 👋</h1>
 
 <!--
 **Rahman-Samiya/Rahman-Samiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
